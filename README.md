@@ -1,6 +1,8 @@
 # pca-trhee-linkage
 Angular2 省市县三级联动组件
 
+参考文章：https://mp.weixin.qq.com/s?__biz=MzUyNzQzOTAyNg==&mid=2247483671&idx=1&sn=8f8d463bbb2b53d2165515967aea3174&chksm=fa7ec4cacd094ddc41edd553cda0cb049f2649435712eecf486d871e92bd27896fd543cd8d95#rd
+
 Get Started
 
 git clone git@github.com:risfeng/pca-three-linkage.git
