@@ -8,4 +8,5 @@ Angular2 省市县三级联动组件
 ![当前使用版本](https://img.shields.io/badge/Angular-5.2.1-brightgreen.svg) 
 ![当前使用版本](https://img.shields.io/badge/AngularCLI-1.6.3-brightgreen.svg) 
 ![编译通过](https://img.shields.io/badge/Build-Passing-brightgreen.svg) 
-![编译通过](https://img.shields.io/badge/License-你高兴就好-blue.svg)
+![授权](https://img.shields.io/badge/License-你高兴就好-blue.svg)
+![prime](https://img.shields.io/badge/primeng-5.2.0-blue.svg)
