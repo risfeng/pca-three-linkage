@@ -1,6 +1,14 @@
 # pca-trhee-linkage
 Angular2 省市县三级联动组件
 
+Get Started
+
+git clone git@github.com:risfeng/pca-three-linkage.git
+
+npm install
+
+ng serve
+
 数据来源于：https://github.com/modood/Administrative-divisions-of-China
 
 ![当前使用版本](https://img.shields.io/badge/Nodejs-8.5.0-brightgreen.svg) 
